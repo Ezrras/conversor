@@ -53,7 +53,7 @@ Clase que realiza las solicitudes a la API para obtener las tasas de conversión
 
 1. Clona este repositorio:
    ```bash
-   git clone <URL del repositorio>
+   git clone <https://github.com/Ezrras/conversor/tree/master>
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. 
